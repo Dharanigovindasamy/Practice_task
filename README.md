@@ -1,1 +1,1 @@
-Deleted tasks is not changed in organise
+Adding the task, edit it, and draggable the task and deleting the task completed.
